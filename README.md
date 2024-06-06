@@ -19,3 +19,28 @@ O CSS define o estilo da aplicação, tornando-a visualmente atraente e responsi
 
 JavaScript
 O JavaScript gerencia a lógica do CRUD, manipula o DOM e interage com o localStorage para armazenar e recuperar dados.
+
+           / Alunos /
+
+Filipe Alves de Sousa Lemos 
+filipe.f.sousa@uni9.edu.br
+RA: 2223107234
+
+Eloyse de Andrade Pereira 
+eloyseandrade@uni9.edu.br
+RA: 2223106417
+
+
+Ari Lopes dos Santos 
+ari.ls@uni9.edu.br
+RA: 2223103880
+
+
+Nicoly Gomes Martins
+nicoly.gomes.martins@uni9.Edu.br
+RA: 2223107440
+
+
+Lucas Souza Silva  
+Lucas.sousilva1@gmail.com
+RA: 2223101592
