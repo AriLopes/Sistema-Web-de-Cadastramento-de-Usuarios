@@ -27,8 +27,8 @@ O JavaScript gerencia a lógica do CRUD, manipula o DOM e interage com o localSt
 
            / Alunos /
 
-           /
-Filipe Alves de Sousa Lemos 
+           
+/ Filipe Alves de Sousa Lemos 
 filipe.f.sousa@uni9.edu.br
 RA: 2223107234
 
@@ -49,5 +49,4 @@ RA: 2223107440
 
 Lucas Souza Silva  
 Lucas.sousilva1@gmail.com
-RA: 2223101592
-         /
+RA: 2223101592 /
