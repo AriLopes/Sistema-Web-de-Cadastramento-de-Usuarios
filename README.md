@@ -23,7 +23,7 @@ O JavaScript gerencia a lógica do CRUD, manipula o DOM e interage com o localSt
 
           / Video do Youtube /
 
-          
+          https://youtu.be/16nU-L4vT1Y
 
            / Alunos /
 
